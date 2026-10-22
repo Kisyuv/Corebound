@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 7475f6fe9e6a3a1448165805426cf608
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3577473872318108054
+    second: dron_patrullero_0
+  - first:
+      213: -2234748728056487331
+    second: dron_patrullero_1
+  - first:
+      213: -289739306383310167
+    second: dron_patrullero_2
+  - first:
+      213: 5174818361163578987
+    second: dron_patrullero_3
+  - first:
+      213: 4583901033295318873
+    second: dron_patrullero_4
+  - first:
+      213: -8345126109149936178
+    second: dron_patrullero_5
+  - first:
+      213: 2803865202245469498
+    second: dron_patrullero_6
+  - first:
+      213: 1762387587102410961
+    second: dron_patrullero_7
+  - first:
+      213: -5218311012682266087
+    second: dron_patrullero_8
+  - first:
+      213: -8096765314358126033
+    second: dron_patrullero_9
+  - first:
+      213: -100974067840635130
+    second: dron_patrullero_10
+  - first:
+      213: 439356508490869097
+    second: dron_patrullero_11
+  - first:
+      213: 3565810539929607069
+    second: dron_patrullero_12
+  - first:
+      213: -855796927100238093
+    second: dron_patrullero_13
+  - first:
+      213: -7370731134678740395
+    second: dron_patrullero_14
+  - first:
+      213: -3571483467680934061
+    second: dron_patrullero_15
+  - first:
+      213: -8219548583340682601
+    second: dron_patrullero_16
+  - first:
+      213: -8033128849292352349
+    second: dron_patrullero_17
+  - first:
+      213: 5964079976599528422
+    second: dron_patrullero_18
+  - first:
+      213: -7651844801018266778
+    second: dron_patrullero_19
+  - first:
+      213: 1565393250930249200
+    second: dron_patrullero_20
+  - first:
+      213: 1522172265976536213
+    second: dron_patrullero_21
+  - first:
+      213: 3530468996834356600
+    second: dron_patrullero_22
+  - first:
+      213: -6635707551620911549
+    second: dron_patrullero_23
+  - first:
+      213: -7011584873067277907
+    second: dron_patrullero_24
+  - first:
+      213: 3456491544917144142
+    second: dron_patrullero_25
+  - first:
+      213: -1546967317122061394
+    second: dron_patrullero_26
+  - first:
+      213: 9160505730957909310
+    second: dron_patrullero_27
+  - first:
+      213: -8723673499868721156
+    second: dron_patrullero_28
+  - first:
+      213: 2681833501268807785
+    second: dron_patrullero_29
+  - first:
+      213: -7553246176417421675
+    second: dron_patrullero_30
+  - first:
+      213: 8028451768087190705
+    second: dron_patrullero_31
+  - first:
+      213: 4192751904164326618
+    second: dron_patrullero_32
+  - first:
+      213: -6429483947738544034
+    second: dron_patrullero_33
+  - first:
+      213: -39796338810929602
+    second: dron_patrullero_34
+  - first:
+      213: 9221837494995153131
+    second: dron_patrullero_35
+  - first:
+      213: 4761733494644204059
+    second: dron_patrullero_36
+  - first:
+      213: 4624552608720057448
+    second: dron_patrullero_37
+  - first:
+      213: -7500829489140049444
+    second: dron_patrullero_38
+  - first:
+      213: -5332948074262316904
+    second: dron_patrullero_39
+  - first:
+      213: -6350103390755055644
+    second: dron_patrullero_40
+  - first:
+      213: -1916481972945826914
+    second: dron_patrullero_41
+  - first:
+      213: 8558306003708581658
+    second: dron_patrullero_42
+  - first:
+      213: 5793141038966472914
+    second: dron_patrullero_43
+  - first:
+      213: -1785483774489389772
+    second: dron_patrullero_44
+  - first:
+      213: 4922694185064865123
+    second: dron_patrullero_45
+  - first:
+      213: -1034917639660732177
+    second: dron_patrullero_46
+  - first:
+      213: -2746210064667450824
+    second: dron_patrullero_47
+  - first:
+      213: 8915883439389042528
+    second: dron_patrullero_48
+  - first:
+      213: 4887552507950453342
+    second: dron_patrullero_49
+  - first:
+      213: 2958856503103345671
+    second: dron_patrullero_50
+  - first:
+      213: -2604140589339233144
+    second: dron_patrullero_51
+  - first:
+      213: 5292199979512555048
+    second: dron_patrullero_52
+  - first:
+      213: 1781805612716291856
+    second: dron_patrullero_53
+  - first:
+      213: -786797264859113311
+    second: dron_patrullero_54
+  - first:
+      213: -845650598128590329
+    second: dron_patrullero_55
+  - first:
+      213: -6269964077258311174
+    second: dron_patrullero_56
+  - first:
+      213: 6020638571797586649
+    second: dron_patrullero_57
+  - first:
+      213: -7884590444907620748
+    second: dron_patrullero_58
+  - first:
+      213: -2766666528101039629
+    second: dron_patrullero_59
+  - first:
+      213: -6857953051188816450
+    second: dron_patrullero_60
+  - first:
+      213: -5859695685109913971
+    second: dron_patrullero_61
+  - first:
+      213: 4594957779986783864
+    second: dron_patrullero_62
+  - first:
+      213: 734219096284001252
+    second: dron_patrullero_63
+  - first:
+      213: 1248850475912936351
+    second: dron_patrullero_64
+  - first:
+      213: -4714046326505720738
+    second: dron_patrullero_65
+  - first:
+      213: 8935553015039268059
+    second: dron_patrullero_66
+  - first:
+      213: -4135728367344839949
+    second: dron_patrullero_67
+  - first:
+      213: -2004978419544834608
+    second: dron_patrullero_68
+  - first:
+      213: 8107442651041000352
+    second: dron_patrullero_69
+  - first:
+      213: 6564966122863475694
+    second: dron_patrullero_70
+  - first:
+      213: -5946458203585231238
+    second: dron_patrullero_71
+  - first:
+      213: -4524129380203813599
+    second: dron_patrullero_72
+  - first:
+      213: 4231522934914275067
+    second: dron_patrullero_73
+  - first:
+      213: -2333206922579358011
+    second: dron_patrullero_74
+  - first:
+      213: 5778540326194756353
+    second: dron_patrullero_75
+  - first:
+      213: 3457832835220821974
+    second: dron_patrullero_76
+  - first:
+      213: -3325834519162792795
+    second: dron_patrullero_77
+  - first:
+      213: 5244046305598639675
+    second: dron_patrullero_78
+  - first:
+      213: 5826836815594836726
+    second: dron_patrullero_79
+  - first:
+      213: -7973731951628891537
+    second: dron_patrullero_80
+  - first:
+      213: 3236897348245954663
+    second: dron_patrullero_81
+  - first:
+      213: -4706942457637178571
+    second: dron_patrullero_82
+  - first:
+      213: 8233382571821193946
+    second: dron_patrullero_83
+  - first:
+      213: 2247250038215001754
+    second: dron_patrullero_84
+  - first:
+      213: 2292360601021178165
+    second: dron_patrullero_85
+  - first:
+      213: -5432204512891356013
+    second: dron_patrullero_86
+  - first:
+      213: -5597076998519743665
+    second: dron_patrullero_87
+  - first:
+      213: -31776175431353458
+    second: dron_patrullero_88
+  - first:
+      213: -1984844219187217029
+    second: dron_patrullero_89
+  - first:
+      213: -6935399484267903253
+    second: dron_patrullero_90
+  - first:
+      213: 5630407849119254158
+    second: dron_patrullero_91
+  - first:
+      213: 7680677385506389049
+    second: dron_patrullero_92
+  - first:
+      213: 7604551891467866536
+    second: dron_patrullero_93
+  - first:
+      213: -7518232749791837073
+    second: dron_patrullero_94
+  - first:
+      213: -4760310417192001569
+    second: dron_patrullero_95
+  - first:
+      213: -1606940612168462184
+    second: dron_patrullero_96
+  - first:
+      213: -3877920732712990482
+    second: dron_patrullero_97
+  - first:
+      213: 7766762867507791810
+    second: dron_patrullero_98
+  - first:
+      213: -185575517265670928
+    second: dron_patrullero_99
+  - first:
+      213: 7039149703955944926
+    second: dron_patrullero_100
+  - first:
+      213: -6733029120138070587
+    second: dron_patrullero_101
+  - first:
+      213: -9177592215561522544
+    second: dron_patrullero_102
+  - first:
+      213: 4252250888604993709
+    second: dron_patrullero_103
+  - first:
+      213: 4774609319893022261
+    second: dron_patrullero_104
+  - first:
+      213: -8269003845682242466
+    second: dron_patrullero_105
+  - first:
+      213: -6500082846711660854
+    second: dron_patrullero_106
+  - first:
+      213: -891167735993640278
+    second: dron_patrullero_107
+  - first:
+      213: -971728475824232537
+    second: dron_patrullero_108
+  - first:
+      213: 1479850381746361413
+    second: dron_patrullero_109
+  - first:
+      213: -1280592841205176383
+    second: dron_patrullero_110
+  - first:
+      213: -833831495980119028
+    second: dron_patrullero_111
+  - first:
+      213: 7111539870968429508
+    second: dron_patrullero_112
+  - first:
+      213: 6885001645603913662
+    second: dron_patrullero_113
+  - first:
+      213: 4419674008375794870
+    second: dron_patrullero_114
+  - first:
+      213: 1087210348865117504
+    second: dron_patrullero_115
+  - first:
+      213: 1696987635354105788
+    second: dron_patrullero_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dron_patrullero_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 567
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20e8dc2a3aafbf0800000000000000
+      internalID: -289739306383310167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 566
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef252d1e5a0d740800000000000000
+      internalID: 5174818361163578987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 565
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0d1704b94d9f30800000000000000
+      internalID: 4583901033295318873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 557
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c742a408203c80800000000000000
+      internalID: -8345126109149936178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 567
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358be1cb8459e620800000000000000
+      internalID: 2803865202245469498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 563
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d80cc54c22457810800000000000000
+      internalID: 1762387587102410961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_8
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 566
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a809128c5d497b0800000000000000
+      internalID: -5218311012682266087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 557
+        width: 130
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adaf758d282af80800000000000000
+      internalID: -8096765314358126033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 557
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f25dace94499ef0800000000000000
+      internalID: -100974067840635130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 550
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969aa5aaa68e81600800000000000000
+      internalID: 439356508490869097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 557
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b19d82bcd4c7130800000000000000
+      internalID: 3565810539929607069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 557
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c150aa399f14f0800000000000000
+      internalID: -855796927100238093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 557
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552df86b517e5b990800000000000000
+      internalID: -7370731134678740395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 554
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35792bb65ba8f6ec0800000000000000
+      internalID: -3571483467680934061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_16
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 549
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d9ebcc1c4eed80800000000000000
+      internalID: -8219548583340682601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4acf67fd7948090800000000000000
+      internalID: -8033128849292352349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32c31c32ba4c250800000000000000
+      internalID: 5964079976599528422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 326
+        width: 185
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d67dee8debef030800000000000000
+      internalID: 3530468996834356600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 187
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2248a32b39e3a0800000000000000
+      internalID: -6635707551620911549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 360
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da19258f4b8d1be90800000000000000
+      internalID: -7011584873067277907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 179
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e427def2fbce7ff20800000000000000
+      internalID: 3456491544917144142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_26
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 329
+        width: 192
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabecc7db61188ae0800000000000000
+      internalID: -1546967317122061394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 329
+        width: 185
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d1da88d67a02f70800000000000000
+      internalID: 9160505730957909310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_28
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 329
+        width: 185
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff06dffb294fe680800000000000000
+      internalID: -8723673499868721156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 354
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609ed54c59c73520800000000000000
+      internalID: 2681833501268807785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_30
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 351
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596ef811f9a7d2790800000000000000
+      internalID: -7553246176417421675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_32
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 44
+        width: 181
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcae0784a5af2a30800000000000000
+      internalID: 4192751904164326618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_33
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 183
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c7f51a62e5c6a0800000000000000
+      internalID: -6429483947738544034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_34
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 181
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e30d1d07d927ff0800000000000000
+      internalID: -39796338810929602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 197
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07091a75c8aff70800000000000000
+      internalID: 9221837494995153131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_36
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 203
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e8577263151240800000000000000
+      internalID: 4761733494644204059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 187
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647ddf7816bd2040800000000000000
+      internalID: 4624552608720057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9580b1253b7e790800000000000000
+      internalID: -7500829489140049444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_39
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 68
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bdfb4bff8df5b0800000000000000
+      internalID: -5332948074262316904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_40
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e79a034c96efd7a0800000000000000
+      internalID: -6350103390755055644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_41
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bcf10bcc94765e0800000000000000
+      internalID: -1916481972945826914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 162
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17942e67f535c670800000000000000
+      internalID: 8558306003708581658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 68
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d08551e41f556050800000000000000
+      internalID: 5793141038966472914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 62
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435165d87ffa837e0800000000000000
+      internalID: -1785483774489389772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 174
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1cae974ce05440800000000000000
+      internalID: 4922694185064865123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_46
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08c34d3eb33a1f0800000000000000
+      internalID: -1034917639660732177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e4e80f7083e9d0800000000000000
+      internalID: -2746210064667450824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 68
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067629fefb49bbb70800000000000000
+      internalID: 8915883439389042528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d4715c1314d340800000000000000
+      internalID: 4887552507950453342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 159
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70454d81058ff0920800000000000000
+      internalID: 2958856503103345671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 152
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884324b6eeb3cdbd0800000000000000
+      internalID: -2604140589339233144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_52
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 140
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ec2397dba17940800000000000000
+      internalID: 5292199979512555048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_53
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01770cca3ce3ab810800000000000000
+      internalID: 1781805612716291856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_54
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 161
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d2d56e0cb415f0800000000000000
+      internalID: -786797264859113311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_55
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 154
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e27ee245a344f0800000000000000
+      internalID: -845650598128590329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_56
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 152
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9fe8434ec9cf8a0800000000000000
+      internalID: -6269964077258311174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_57
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 140
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a201e1ea9d8350800000000000000
+      internalID: 6020638571797586649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 151
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47697d3c3ce449290800000000000000
+      internalID: -7884590444907620748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_59
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 123
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1039c7373da99d0800000000000000
+      internalID: -2766666528101039629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_60
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 117
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59591f808a3d0a0800000000000000
+      internalID: -6857953051188816450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 142
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86622502dd2eaea0800000000000000
+      internalID: -5859695685109913971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 145
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e970a71c194cf30800000000000000
+      internalID: 4594957779986783864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_63
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 131
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f055c068703a00800000000000000
+      internalID: 734219096284001252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_64
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3e5224eec45110800000000000000
+      internalID: 1248850475912936351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_65
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5434e597d7549eb0800000000000000
+      internalID: -4714046326505720738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_66
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 129
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41615ef16710c70800000000000000
+      internalID: 8935553015039268059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_67
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 137
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f297e046f0fa96c0800000000000000
+      internalID: -4135728367344839949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_68
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 125
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddb4b010c2ec24e0800000000000000
+      internalID: -2004978419544834608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_69
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 118
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab6624d22c638070800000000000000
+      internalID: 8107442651041000352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_70
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 120
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb30c3f7e17b1b50800000000000000
+      internalID: 6564966122863475694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_71
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 131
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76489ff4cfe97da0800000000000000
+      internalID: -5946458203585231238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_72
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1252b0f6c401731c0800000000000000
+      internalID: -4524129380203813599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_73
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 118
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6db7290b369ba30800000000000000
+      internalID: 4231522934914275067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_74
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 91
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cecc207aa8ce9fd0800000000000000
+      internalID: -2333206922579358011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_75
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 118
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbb178fcf713050800000000000000
+      internalID: 5778540326194756353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_76
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d40ca4a0bcff20800000000000000
+      internalID: 3457832835220821974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_77
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d197302348d1d0800000000000000
+      internalID: -3325834519162792795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_78
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e08eea45896c840800000000000000
+      internalID: 5244046305598639675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_79
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d2bd36351dd050800000000000000
+      internalID: 5826836815594836726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_80
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 105
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4af0690d975190800000000000000
+      internalID: -7973731951628891537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_81
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760aa980df4cbec20800000000000000
+      internalID: 3236897348245954663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_82
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f452f5c49daeb0800000000000000
+      internalID: -4706942457637178571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_83
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada5b45a3d9d24270800000000000000
+      internalID: 8233382571821193946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_84
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 111
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c949d006df2f10800000000000000
+      internalID: 2247250038215001754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_85
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 108
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531e7f832d910df10800000000000000
+      internalID: 2292360601021178165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_86
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 103
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c36ddc6ceec94b0800000000000000
+      internalID: -5432204512891356013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_87
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 91
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b98badf103352b0800000000000000
+      internalID: -5597076998519743665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_88
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 86
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bf71f9cbb1f8ff0800000000000000
+      internalID: -31776175431353458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_89
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 100
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dbbd4e2ba6474e0800000000000000
+      internalID: -1984844219187217029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_90
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c8c41ae280cf90800000000000000
+      internalID: -6935399484267903253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_91
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 94
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86035b8b1a332e40800000000000000
+      internalID: 5630407849119254158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_92
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 100
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cfb7d536f379a60800000000000000
+      internalID: 7680677385506389049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_93
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 94
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a197f697abc88960800000000000000
+      internalID: 7604551891467866536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_94
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 88
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6403f9b52fd9a790800000000000000
+      internalID: -7518232749791837073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_95
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfdda295eaffedb0800000000000000
+      internalID: -4760310417192001569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_96
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890dc84f60003b9e0800000000000000
+      internalID: -1606940612168462184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_97
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee80583c3abde2ac0800000000000000
+      internalID: -3877920732712990482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_98
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70f7c8da519cb60800000000000000
+      internalID: 7766762867507791810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_99
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 77
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcce5edc04bc6df0800000000000000
+      internalID: -185575517265670928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_100
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed517195c5510b160800000000000000
+      internalID: 7039149703955944926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_101
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 84
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53fc730b97f82a0800000000000000
+      internalID: -6733029120138070587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_102
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 57
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b0124184a2a080800000000000000
+      internalID: -9177592215561522544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_103
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 82
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c32f57a7030b30800000000000000
+      internalID: 4252250888604993709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_104
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 83
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363e7521e1d24240800000000000000
+      internalID: 4774609319893022261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c55cb30d89e3d80800000000000000
+      internalID: -8269003845682242466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_106
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace342ff6111bc5a0800000000000000
+      internalID: -6500082846711660854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_107
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 63
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5fcc6aafe1a3f0800000000000000
+      internalID: -891167735993640278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_108
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 54
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a76d54891ab382f0800000000000000
+      internalID: -971728475824232537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_109
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 54
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d7b4e41c798410800000000000000
+      internalID: 1479850381746361413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_110
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 61
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ae06889b6a3ee0800000000000000
+      internalID: -1280592841205176383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_111
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c82971ca2ad64f0800000000000000
+      internalID: -833831495980119028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb91785d341b260800000000000000
+      internalID: 7111539870968429508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf7334b4807c8f50800000000000000
+      internalID: 6885001645603913662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_114
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc144c1816d55d30800000000000000
+      internalID: 4419674008375794870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_115
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ddb305d0c861f00800000000000000
+      internalID: 1087210348865117504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dron_patrullero_116
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 51
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f2896349ec8710800000000000000
+      internalID: 1696987635354105788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a5b478316d64025428e7602eacd56e9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dron_patrullero_0: -3577473872318108054
+      dron_patrullero_1: -2234748728056487331
+      dron_patrullero_10: -100974067840635130
+      dron_patrullero_100: 7039149703955944926
+      dron_patrullero_101: -6733029120138070587
+      dron_patrullero_102: -9177592215561522544
+      dron_patrullero_103: 4252250888604993709
+      dron_patrullero_104: 4774609319893022261
+      dron_patrullero_105: -8269003845682242466
+      dron_patrullero_106: -6500082846711660854
+      dron_patrullero_107: -891167735993640278
+      dron_patrullero_108: -971728475824232537
+      dron_patrullero_109: 1479850381746361413
+      dron_patrullero_11: 439356508490869097
+      dron_patrullero_110: -1280592841205176383
+      dron_patrullero_111: -833831495980119028
+      dron_patrullero_112: 7111539870968429508
+      dron_patrullero_113: 6885001645603913662
+      dron_patrullero_114: 4419674008375794870
+      dron_patrullero_115: 1087210348865117504
+      dron_patrullero_116: 1696987635354105788
+      dron_patrullero_12: 3565810539929607069
+      dron_patrullero_13: -855796927100238093
+      dron_patrullero_14: -7370731134678740395
+      dron_patrullero_15: -3571483467680934061
+      dron_patrullero_16: -8219548583340682601
+      dron_patrullero_17: -8033128849292352349
+      dron_patrullero_18: 5964079976599528422
+      dron_patrullero_19: -7651844801018266778
+      dron_patrullero_2: -289739306383310167
+      dron_patrullero_20: 1565393250930249200
+      dron_patrullero_21: 1522172265976536213
+      dron_patrullero_22: 3530468996834356600
+      dron_patrullero_23: -6635707551620911549
+      dron_patrullero_24: -7011584873067277907
+      dron_patrullero_25: 3456491544917144142
+      dron_patrullero_26: -1546967317122061394
+      dron_patrullero_27: 9160505730957909310
+      dron_patrullero_28: -8723673499868721156
+      dron_patrullero_29: 2681833501268807785
+      dron_patrullero_3: 5174818361163578987
+      dron_patrullero_30: -7553246176417421675
+      dron_patrullero_31: 8028451768087190705
+      dron_patrullero_32: 4192751904164326618
+      dron_patrullero_33: -6429483947738544034
+      dron_patrullero_34: -39796338810929602
+      dron_patrullero_35: 9221837494995153131
+      dron_patrullero_36: 4761733494644204059
+      dron_patrullero_37: 4624552608720057448
+      dron_patrullero_38: -7500829489140049444
+      dron_patrullero_39: -5332948074262316904
+      dron_patrullero_4: 4583901033295318873
+      dron_patrullero_40: -6350103390755055644
+      dron_patrullero_41: -1916481972945826914
+      dron_patrullero_42: 8558306003708581658
+      dron_patrullero_43: 5793141038966472914
+      dron_patrullero_44: -1785483774489389772
+      dron_patrullero_45: 4922694185064865123
+      dron_patrullero_46: -1034917639660732177
+      dron_patrullero_47: -2746210064667450824
+      dron_patrullero_48: 8915883439389042528
+      dron_patrullero_49: 4887552507950453342
+      dron_patrullero_5: -8345126109149936178
+      dron_patrullero_50: 2958856503103345671
+      dron_patrullero_51: -2604140589339233144
+      dron_patrullero_52: 5292199979512555048
+      dron_patrullero_53: 1781805612716291856
+      dron_patrullero_54: -786797264859113311
+      dron_patrullero_55: -845650598128590329
+      dron_patrullero_56: -6269964077258311174
+      dron_patrullero_57: 6020638571797586649
+      dron_patrullero_58: -7884590444907620748
+      dron_patrullero_59: -2766666528101039629
+      dron_patrullero_6: 2803865202245469498
+      dron_patrullero_60: -6857953051188816450
+      dron_patrullero_61: -5859695685109913971
+      dron_patrullero_62: 4594957779986783864
+      dron_patrullero_63: 734219096284001252
+      dron_patrullero_64: 1248850475912936351
+      dron_patrullero_65: -4714046326505720738
+      dron_patrullero_66: 8935553015039268059
+      dron_patrullero_67: -4135728367344839949
+      dron_patrullero_68: -2004978419544834608
+      dron_patrullero_69: 8107442651041000352
+      dron_patrullero_7: 1762387587102410961
+      dron_patrullero_70: 6564966122863475694
+      dron_patrullero_71: -5946458203585231238
+      dron_patrullero_72: -4524129380203813599
+      dron_patrullero_73: 4231522934914275067
+      dron_patrullero_74: -2333206922579358011
+      dron_patrullero_75: 5778540326194756353
+      dron_patrullero_76: 3457832835220821974
+      dron_patrullero_77: -3325834519162792795
+      dron_patrullero_78: 5244046305598639675
+      dron_patrullero_79: 5826836815594836726
+      dron_patrullero_8: -5218311012682266087
+      dron_patrullero_80: -7973731951628891537
+      dron_patrullero_81: 3236897348245954663
+      dron_patrullero_82: -4706942457637178571
+      dron_patrullero_83: 8233382571821193946
+      dron_patrullero_84: 2247250038215001754
+      dron_patrullero_85: 2292360601021178165
+      dron_patrullero_86: -5432204512891356013
+      dron_patrullero_87: -5597076998519743665
+      dron_patrullero_88: -31776175431353458
+      dron_patrullero_89: -1984844219187217029
+      dron_patrullero_9: -8096765314358126033
+      dron_patrullero_90: -6935399484267903253
+      dron_patrullero_91: 5630407849119254158
+      dron_patrullero_92: 7680677385506389049
+      dron_patrullero_93: 7604551891467866536
+      dron_patrullero_94: -7518232749791837073
+      dron_patrullero_95: -4760310417192001569
+      dron_patrullero_96: -1606940612168462184
+      dron_patrullero_97: -3877920732712990482
+      dron_patrullero_98: 7766762867507791810
+      dron_patrullero_99: -185575517265670928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

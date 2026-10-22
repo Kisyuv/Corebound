@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8981df35cc17aa245bf3fda5168b9b2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2191383089751289470
+    second: stretching_idle_0
+  - first:
+      213: -8343850552360167718
+    second: stretching_idle_1
+  - first:
+      213: 5704573771202953716
+    second: stretching_idle_2
+  - first:
+      213: 1241208408208863744
+    second: stretching_idle_3
+  - first:
+      213: -4291419578838329496
+    second: stretching_idle_4
+  - first:
+      213: -182371461063102920
+    second: stretching_idle_5
+  - first:
+      213: 4974051009809423016
+    second: stretching_idle_6
+  - first:
+      213: -5586432857385227443
+    second: stretching_idle_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stretching_idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819398b0b4a691e0800000000000000
+      internalID: -2191383089751289470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 36
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6944444, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad610a75120b43c80800000000000000
+      internalID: -8343850552360167718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 38
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6052632, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1009bee97ba2f40800000000000000
+      internalID: 5704573771202953716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1
+        width: 31
+        height: 61
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.44262296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00274879878a93110800000000000000
+      internalID: 1241208408208863744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6896552, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8675f2541a0d174c0800000000000000
+      internalID: -4291419578838329496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 30
+        height: 52
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e2a265f16187df0800000000000000
+      internalID: -182371461063102920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stretching_idle_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa1d5e2a01670540800000000000000
+      internalID: 4974051009809423016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8df5323ebf47354fabad873b76d7c3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stretching_idle_0: -2191383089751289470
+      stretching_idle_1: -8343850552360167718
+      stretching_idle_2: 5704573771202953716
+      stretching_idle_3: 1241208408208863744
+      stretching_idle_4: -4291419578838329496
+      stretching_idle_5: -182371461063102920
+      stretching_idle_6: 4974051009809423016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
